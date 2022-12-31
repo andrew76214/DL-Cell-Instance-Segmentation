@@ -2,9 +2,9 @@
 
 暨南大學 資工三 109321041 劉彥汝
 
-### Dataset : Sartorius - Cell Instance Segmentation
+### Competition : Sartorius - Cell Instance Segmentation
 > Detect single neuronal cells in microscopy images
-[(dataset link)](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation)
+[(Competition link)](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation)
 
 ---
 ![期末專題成果報告_page-0001](https://user-images.githubusercontent.com/61071600/210127808-130992b9-9321-45de-94ba-7d293fc834e3.jpg)
